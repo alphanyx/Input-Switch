@@ -18,7 +18,7 @@ I developed this jQuery Plugin with the jQuery version 1.8.0.
 I dont know if it works with older Versions.
 
 
-### Teste with these Browsers
+### Tested with these Browsers
 
 * Chrome v18.0
 * Firefox v15.0.1

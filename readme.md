@@ -8,6 +8,10 @@ It copies all events and attributes.
 
 For an example view the example.html file.
 
+Or Visit this Page:
+
+[http://alphanyx.de/input-switch/example.html](http://alphanyx.de/input-switch/example.html)
+
 ### Requirements
 
 I developed this jQuery Plugin with the jQuery version 1.8.0.
